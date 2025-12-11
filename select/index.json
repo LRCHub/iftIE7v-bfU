@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "DAYBREAK'S BELL",
+  "base_artist": "L'Arc-en-Ciel",
+  "createdAt": "2025-12-11T11:44:58.699989Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DAYBREAK'S BELL",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/01_DAYBREAK'S_BELL_L'Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Daybreak's Bell",
+      "artist": "L'Arc En Ciel",
+      "has_synced": true,
+      "path": "select/02_Daybreak's_Bell_L'Arc_En_Ciel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "DAYBREAK’S BELL",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/03_DAYBREAK’S_BELL_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "DAYBREAK'S BELL(hydeless version)",
+      "artist": "L'Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/04_DAYBREAK'S_BELL(hydeless_version)_L'Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "DAYBREAK’S BELL",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/05_DAYBREAK’S_BELL_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "DAYBREAK'S BELL",
+      "artist": "L’Arc～en～Ciel",
+      "has_synced": true,
+      "path": "select/06_DAYBREAK'S_BELL_L’Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "DAYBREAK’S BELL",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/07_DAYBREAK’S_BELL_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DAYBREAK’S BELL",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/08_DAYBREAK’S_BELL_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DAYBREAK’S BELL(hydeless version)",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/09_DAYBREAK’S_BELL(hydeless_version)_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "DAYBREAK'S BELL",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/10_DAYBREAK'S_BELL_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "DAYBREAK'S BELL",
+      "artist": "L'Arc en Ciel",
+      "has_synced": true,
+      "path": "select/11_DAYBREAK'S_BELL_L'Arc_en_Ciel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "DAYBREAK'S BELL",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/12_DAYBREAK'S_BELL_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DAYBREAK’S BELL",
+      "artist": "L’Arc〜en〜Ciel",
+      "has_synced": true,
+      "path": "select/13_DAYBREAK’S_BELL_L’Arc〜en〜Ciel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "DAYBREAK’S BELL",
+      "artist": "L'Arc-en-Ciel",
+      "has_synced": true,
+      "path": "select/14_DAYBREAK’S_BELL_L'Arc-en-Ciel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "daybreaks bell",
+      "artist": "larcenciel",
+      "has_synced": true,
+      "path": "select/15_daybreaks_bell_larcenciel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Daybreak's Bell",
+      "artist": "L'Arc~en~Ciel",
+      "has_synced": true,
+      "path": "select/16_Daybreak's_Bell_L'Arc~en~Ciel.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Daybreak's Bell (From \"gundam 00\")",
+      "artist": "Manga Star",
+      "has_synced": false,
+      "path": "select/17_Daybreak's_Bell_(From__gundam_00_)_Manga_Star.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DAYBREAK'S BELL",
+      "artist": "L'Arc～en～Ciel",
+      "has_synced": false,
+      "path": "select/pl_01_DAYBREAK'S_BELL_L'Arc~en~Ciel.txt"
+    }
+  ]
+}
