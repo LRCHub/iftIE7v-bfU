@@ -1,4 +1,4 @@
-# L'Arc-en-Ciel – DAYBREAK'S BELL
+# L'Arc～en～Ciel – Daybreak's Bell
 
 > **歌詞登録ステータス：同期歌詞あり**
 
